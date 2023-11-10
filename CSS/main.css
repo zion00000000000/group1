@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699488000&semt=ais);
+}
+
+.title p {
+    padding: 15px 20px;
+    color: white;
+    background-color: #911f1f;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+.topic .container{
+    text-align: center;
+    background-color: #911f1f;
+    color: white;
+    margin: 30px 300px;
+    font-size: 35px;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.line {
+   height: 5px;
+   color: #911f1f;
+   background-color: #911f1f;
+   border-radius: 25px;
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-bottom: 20px;
+}
+
+.student {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.student .container {
+    background-color: #911f1f;
+    margin: 20px 20px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+img {
+    height: 150px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.student .container p{
+    color: white;
+    font-size: 30px;
+}
